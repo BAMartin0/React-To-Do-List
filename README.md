@@ -18,3 +18,16 @@ Welcome to the React To-Do List app! This is a simple and user-friendly To-Do li
 ## Installation
 
 To get started with the project, follow these simple steps:
+1. Clone the repo 
+2. Install dependencies
+3. Start development server
+
+## Usage 
+
+1. Add a Task: Type your task into the input box and hit the "Add" button to add it to your list.
+2. Edit a Task: Click on the edit icon next to a task then edit/add.
+3. Delete a Task: Click on the trash icon next to a task to remove it from the list.
+
+## Contributing
+
+Feel free to fork this project, submit issues, or open pull requests. Whether it's fixing bugs or adding new features, any contributions are welcome!
